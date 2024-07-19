@@ -6,7 +6,7 @@ Este código está diseñado para ayudar a mezclar dos soluciones con concentrac
    - Solicita la concentración final deseada (`cf`) y el volumen final deseado (`vf`) en mililitros.
 
 2. **Sistema de Ecuaciones**:
-   - Utiliza un sistema de ecuaciones con dos incógnitas para calcular cuánto de cada solución debe mezclarse para obtener la concentración final deseada.
+   - Utiliza un sistema de ecuaciones con dos incógnitas para calcular cuánto de cada solución debe mezclarse para obtener la concentración final deseada:
      - La primera ecuación es $\( c1 \cdot x + c2 \cdot y = cf \cdot vf \)$, donde $\( x \)$ es el volumen de la primera solución y $\( y \)$ es el volumen de la segunda solución.
      - La segunda ecuación es $\( x + y = vf \)$.
 
